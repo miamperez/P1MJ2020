@@ -9,7 +9,7 @@ PROYECTO
 </head>
 <body style= "background-color:#F0F8FF;">
 <p>
-<img src="img1.jpg" width="350" height="200">
+<img src="https://image.isu.pub/180508162051-e197499dbb2b817323e7b476c50744f3/jpg/page_1_thumb_large.jpg" width="350" height="200">
 
 <br>
 <font color="black" face="Cambria">
