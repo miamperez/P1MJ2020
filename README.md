@@ -9,7 +9,7 @@ PROYECTO
 </head>
 <body style= "background-color:#F0F8FF;">
 <p>
-<img src="https://image.isu.pub/180508162051-e197499dbb2b817323e7b476c50744f3/jpg/page_1_thumb_large.jpg" width="350" height="200">
+<img src="https://www.guatemala.com/fotos/201805/Wakami-accesorios-producidos-por-comunidades-guatemaltecas-885x500.jpg" width="350" height="200">
 
 <br>
 <font color="black" face="Cambria">
@@ -38,6 +38,6 @@ El &eacute;xito de las pulseras trajo consigo la puesta en marcha del proyecto &
 <h4>
 <a href="https://wakamiguatemala.com/">Conoce los productos de Wakami</a> </h4>
 <br>
-<img src="img2.jpg" width="200" height="350">
+<img src=" https://miamperez.github.io/P1MJ2020/" width="200" height="350">
 </body>
 </html>
