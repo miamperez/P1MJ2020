@@ -39,5 +39,6 @@ El &eacute;xito de las pulseras trajo consigo la puesta en marcha del proyecto &
 <a href="https://wakamiguatemala.com/">Conoce los productos de Wakami</a> </h4>
 <br>
 <img src="https://image.isu.pub/180508162051-e197499dbb2b817323e7b476c50744f3/jpg/page_1_thumb_large.jpg" width="200" height="350">
+<br>
 </body>
 </html>
